@@ -2,15 +2,15 @@
 
 # Checkpoint 1 
 
-![image](check1.png)
+![image](check1.PNG)
 
 #Checkpoint 2 
 
-![image](check2.png)
+![image](check2.PNG)
 
 #Checkpoint 3
 
-![image](check3.png) 
+![image](check3.PNG) 
 
 Fix...
 
